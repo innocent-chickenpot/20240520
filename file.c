@@ -2,6 +2,16 @@
 #include <unist.h>
 int main(void)
 {
-printf("hello world");
-return 0;
+
+
+
+	printf("second code");  
+	printf("second code");  
+	printf("second code");  
+	printf("second code");  
+	printf("second code");  
+	printf("second code");  
+	printf("second code");  
+
+	return 0;
 }
